@@ -1,4 +1,0 @@
-return {
-    "SuperKey123",
-    "RodzinkaTop"
-}
