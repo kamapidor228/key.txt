@@ -1,1 +1,4 @@
-GG_PETJA_BYST_228_1488
+return {
+    "SuperKey123",
+    "RodzinkaTop"
+}
